@@ -5,7 +5,7 @@
 1. **프로젝트 클론**
 
 ```bash
-git clone https://github.com/dasdfadssda/react_base_file.git
+git clone https://github.com/eunoia-jason/react_base_file.git
 ```
 2.**개발 환경 설정**
    ```sh
